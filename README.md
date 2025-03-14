@@ -25,8 +25,4 @@ Aplicación web que permite a los usuarios ingresar nombres de amigos en una lis
 
 ## 👩‍💻 Desarrolladora
 
-<img src="https://avatars.githubusercontent.com/u/91544872?v=4" width=115><br><sub>Cecilia López</sub>
-
-## 📜 Licencia
-
-Este proyecto está bajo la licencia MIT.
+<img src="https://avatars.githubusercontent.com/u/112517165?v=4" width=115><br><sub>Cecilia López</sub>
